@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+
+# Compiled binary files
+*.o
+*.out
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Mac OS files
+.DS_Store
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Compiled JavaScript files
+*.js
+
+# Dependency lock files
+package-lock.json
+yarn.lock
